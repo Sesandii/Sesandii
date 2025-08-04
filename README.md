@@ -14,8 +14,6 @@
 - 💬 Ask me about **C++**
 
 - 📫 How to reach me **kdsesandi1nethmini@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wRyxlqIV0Qdm_ZPu4TzOxyNWX_A99ZdI/view?usp=drive_link](https://drive.google.com/file/d/1wRyxlqIV0Qdm_ZPu4TzOxyNWX_A99ZdI/view?usp=drive_link)
   
 - ⚡ Fun fact **Call me as SESA**
 
@@ -37,9 +35,9 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nuwanakanadil&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Sesandii&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nuwanakanadil&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sesandii&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
