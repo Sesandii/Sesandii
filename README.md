@@ -1,23 +1,23 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Nuwanaka Nadil</h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nuwanakanadil&label=Profile%20views&color=0e75b6&style=flat" alt="nuwanakanadil" /> </p>
+<h1 align="center">Hi 👋, I'm Sesandi Nethmini</h1>
+<h3 align="center">Passionate IS Student | Exploring the Boundless World of Technology</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nuwanakanadil&label=Profile%20views&color=0e75b6&style=flat" alt="Sesandii" /> </p>
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **C++**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m an Undergraduate at **UCSC**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **C++**
 
-- 📫 How to reach me **nuwanakanadil123@gmail.com**
+- 📫 How to reach me **kdsesandi1nethmini@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wRyxlqIV0Qdm_ZPu4TzOxyNWX_A99ZdI/view?usp=drive_link](https://drive.google.com/file/d/1wRyxlqIV0Qdm_ZPu4TzOxyNWX_A99ZdI/view?usp=drive_link)
   
-- ⚡ Fun fact **Call me as NUWA**
+- ⚡ Fun fact **Call me as SESA**
 
 </td>
 <td width="50%" align="center">
@@ -53,9 +53,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.youtube.com/@poous" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="poousgaming" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/nuwanaka-nadil-9145442a5/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="nuwanakanadil" height="50" width="50" /></a>
-<a href="https://www.facebook.com/nuwanaka.nadil.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nuwanaka nadil" height="50" width="50" /></a>
+<a href="https://www.facebook.com/sesandi.nethmini.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sesandi nethmini" height="50" width="50" /></a>
 <a href="https://www.instagram.com/_nuwanaka__nadil_/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="_nuwanak__nadil_" height="50" width="50" /></a>
 </p>
 
